@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T09:53:01.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.8" etag="n9CO9RWcuKlu1-JCSyuw" type="github"><diagram id="ZM9gZgmKnqBvIaOfygT9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-23T19:48:35.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="g38i38DfnE3yNzDjkGtb" version="20.3.0" type="github">
+  <diagram id="ZM9gZgmKnqBvIaOfygT9" name="第 1 页">
+    <mxGraphModel dx="1554" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tBWshUBjJdXFIDpicXeC-1" value="BS4 - AI Study Toolkit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="330" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tBWshUBjJdXFIDpicXeC-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBWshUBjJdXFIDpicXeC-1" target="tBWshUBjJdXFIDpicXeC-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="350" as="sourcePoint" />
+            <mxPoint x="350" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBWshUBjJdXFIDpicXeC-3" value="Model Browsing Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="150" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tBWshUBjJdXFIDpicXeC-4" value="Data Browsing Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="230" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tBWshUBjJdXFIDpicXeC-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.953;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tBWshUBjJdXFIDpicXeC-1" target="tBWshUBjJdXFIDpicXeC-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="370" as="sourcePoint" />
+            <mxPoint x="300" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBWshUBjJdXFIDpicXeC-6" value="Data Uploading Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tBWshUBjJdXFIDpicXeC-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBWshUBjJdXFIDpicXeC-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="375" as="sourcePoint" />
+            <mxPoint x="340" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBWshUBjJdXFIDpicXeC-8" value="AI Training Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="555" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBWshUBjJdXFIDpicXeC-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBWshUBjJdXFIDpicXeC-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="410" as="sourcePoint" />
+            <mxPoint x="380" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBWshUBjJdXFIDpicXeC-10" value="Data Preprocessing Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="480" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tBWshUBjJdXFIDpicXeC-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.98;exitY=0.664;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tBWshUBjJdXFIDpicXeC-1" target="tBWshUBjJdXFIDpicXeC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="390" as="sourcePoint" />
+            <mxPoint x="390" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBWshUBjJdXFIDpicXeC-12" value="Argument Translation Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tBWshUBjJdXFIDpicXeC-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBWshUBjJdXFIDpicXeC-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="390" as="sourcePoint" />
+            <mxPoint x="420" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
