@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T09:51:41.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5uCssV7CPRl2_ZaZXRYi" version="20.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-10-16T11:43:05.010Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="yoMYqNmSqkAwupf-A6PX" version="20.4.0" type="github" pages="6">
   <diagram id="ZM9gZgmKnqBvIaOfygT9" name="第 1 页">
     <mxGraphModel dx="1554" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
             <mxPoint x="350" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tBWshUBjJdXFIDpicXeC-3" value="Model Browsing Service" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tBWshUBjJdXFIDpicXeC-3" value="AI Model Management Service" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="329" y="150" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tBWshUBjJdXFIDpicXeC-4" value="Data Browsing Service" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tBWshUBjJdXFIDpicXeC-4" value="Dataset Management Service" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="230" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tBWshUBjJdXFIDpicXeC-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.044;entryY=0.686;entryDx=0;entryDy=0;exitX=0.925;exitY=0.245;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="tBWshUBjJdXFIDpicXeC-1" target="tBWshUBjJdXFIDpicXeC-4" edge="1">
@@ -25,7 +25,7 @@
             <mxPoint x="300" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tBWshUBjJdXFIDpicXeC-6" value="Data Uploading Service" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tBWshUBjJdXFIDpicXeC-6" value="Data Transfer Service" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="310" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tBWshUBjJdXFIDpicXeC-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="tBWshUBjJdXFIDpicXeC-6" edge="1">
@@ -556,13 +556,13 @@
         <mxCell id="jOlrG8AVt40wQeh_94mx-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=5;" vertex="1" parent="20-1iSpsmGO5zC-5rkQ9-2">
           <mxGeometry width="760" height="182.5" as="geometry" />
         </mxCell>
-        <mxCell id="jOlrG8AVt40wQeh_94mx-6" value="Data Uploading Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="20-1iSpsmGO5zC-5rkQ9-2">
+        <mxCell id="jOlrG8AVt40wQeh_94mx-6" value="Data Transfer Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="20-1iSpsmGO5zC-5rkQ9-2">
           <mxGeometry x="520" y="603.75" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jOlrG8AVt40wQeh_94mx-4" value="Data Browsing Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="20-1iSpsmGO5zC-5rkQ9-2">
+        <mxCell id="jOlrG8AVt40wQeh_94mx-4" value="Dataset Management Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="20-1iSpsmGO5zC-5rkQ9-2">
           <mxGeometry x="90" y="430" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jOlrG8AVt40wQeh_94mx-3" value="Model Browsing Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="20-1iSpsmGO5zC-5rkQ9-2">
+        <mxCell id="jOlrG8AVt40wQeh_94mx-3" value="AI Model Management Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="20-1iSpsmGO5zC-5rkQ9-2">
           <mxGeometry x="310" y="430" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jOlrG8AVt40wQeh_94mx-8" value="AI Training Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="20-1iSpsmGO5zC-5rkQ9-2">
